@@ -1,2 +1,4 @@
-# CSE-Portfolio
-My engineering portfolio and GitHub Fundamentals Activity 3
+
+# My Engineering Portfolio
+
+Hello! I am a Computer Science and Engineering student at REVA University, Bangalore. This repository contains my learning journey, programming skills, academic activities, and projects as I develop my technical knowledge and professional skills.
